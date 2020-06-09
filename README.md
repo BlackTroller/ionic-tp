@@ -1,2 +1,2 @@
 # ionic-tp
-repositorio de ionic
+Abre só o repositorio no visual stuidio code pq sen requer a instalação do ionic
